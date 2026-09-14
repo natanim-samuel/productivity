@@ -1,5 +1,4 @@
 name: productivity
-name: productivity_app_ui
 description: A daily planner / habit / goal / activity tracker app.
 publish_to: 'none'
 version: 1.0.0
